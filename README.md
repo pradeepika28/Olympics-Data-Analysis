@@ -5,23 +5,23 @@ This project involves a comprehensive analysis of the Olympics dataset, using Py
 # Objective
 The project aims to uncover key insights from the Olympics data, including the distribution of sports, participant demographics, and statistical summaries, which can help in understanding patterns and trends in Olympic events.
 # Dataset Details
-## Source
+### Source
 Downloaded form kaggle website
-## Link
+### Link
 www.kaggle.com
 # Tools/Technologies Used
 Python, primarily using the pandas,Matplotlib and seaborn
 # Key Features
-## Data Overview and Cleaning: 
+### Data Overview and Cleaning: 
 Loaded Olympic athlete data, assessed data structure, identified missing values, and prepared the dataset for analysis.
 
-## Exploratory Data Analysis (EDA): 
+### Exploratory Data Analysis (EDA): 
 Conducted descriptive statistics and visualizations to understand athlete demographics (age, height, weight), and identified medal distribution patterns.
 
-## Medal and Performance Analysis: 
+### Medal and Performance Analysis: 
 Analyzed medal counts by country, top athletes, and events, highlighting high-performing nations and athletes in Olympic history.
 
-## Gender and Age Insights: 
+### Gender and Age Insights: 
 Explored participation trends by gender and age distribution, providing insights into diversity and age demographics across different sports and events.
 
 # Results/Insights
